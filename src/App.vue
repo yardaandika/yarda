@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Yarda Routing Project" />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/">Project</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
